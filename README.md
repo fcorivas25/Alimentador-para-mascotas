@@ -1,7 +1,7 @@
 # Alimentador para mascotas
 Este proyecto consiste en un alimentador para mascotas basado en hardware libre, impresión 3D y un poquito de corte láser (no es estrictamente necesario) e inspirado en el IOT. 
 
-Su función es operar como un alimentador de mascotas el cual puede dispensar agua y alimento y es controlado mediante una aplicación diseñada con Blynk, que a su vez permite accionarlo de manera manual desde un telefóno inteligente, o de manera automática a partir de temporizadores programados desde la aplicación. La descripción completa del proyecto está disponible en [nuestro canal de Youtube](https://www.youtube.com/watch?v=30iwf5A4E7M).
+Su función es operar como un alimentador de mascotas el cual puede dispensar agua y alimento y es controlado mediante una aplicación diseñada con Blynk, que a su vez permite accionarlo de manera manual desde un telefóno inteligente, o de manera automática a partir de temporizadores programados desde la aplicación. La descripción completa del proyecto está disponible en [nuestro canal de Youtube](https://www.youtube.com/watch?v=uMpY2tk-1oQ).
 
 Las piezas impresas en 3D son tomadas del proyecto disponible en [thingiverse](https://www.thingiverse.com/thing:2017229)
 
